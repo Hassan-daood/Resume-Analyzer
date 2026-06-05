@@ -1,0 +1,14 @@
+Machine Learning Intern Job Description
+
+Skills Required:
+- Python
+- Machine Learning
+- SQL
+- Data Cleaning
+- Deep Learning
+- Communication Skills
+
+Responsibilities:
+- Train ML models
+- Analyze datasets
+- Create reports and dashboards
