@@ -32,11 +32,11 @@ python app.py
 ## Then open:
    http://127.0.0.1:5000/
 ## Screen Shots
-   ## ---Home page---
+## ---Home page---
    <img width="1360" height="727" alt="Screenshot 2026-06-05 145525" src="https://github.com/user-attachments/assets/aaee2184-757d-4b15-910d-9327ee9b9c8e" />
-   ## ---After uploading files---
+## ---After uploading files---
    <img width="1274" height="483" alt="image" src="https://github.com/user-attachments/assets/4735c2b0-4db4-4e6b-9565-490727e20555" />
-   ## ---Running Analyzer---
+## ---Running Analyzer---
    <img width="1302" height="561" alt="Screenshot 2026-06-05 112827" src="https://github.com/user-attachments/assets/8bd754cd-185a-4cd9-b8c7-23c81be828a8" />
 ## Author
    "Hassan Daood"
